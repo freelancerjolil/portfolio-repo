@@ -9,7 +9,7 @@
 }
 
 body {
-    
+    height:100%
     color: #ededed;
 }
 
@@ -46,7 +46,6 @@ body {
 .navbar a:hover, 
 .navbar a.active {
     color: #081b29;
-
 }
 
 .home {
@@ -58,7 +57,6 @@ body {
     align-items: center;
     color: #ededed;
     padding: 0 10%;
-
 }
 
 .home-content {
@@ -69,7 +67,6 @@ body {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.2;
-
 }
 
 .home-content h3 {
